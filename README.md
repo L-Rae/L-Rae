@@ -46,4 +46,6 @@ I am a creative problem solver and I am always looking for new ways to solve pro
 
 <a href="https://github.com/L-Rae" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Rae&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=6366f1&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<b>Top Repositories</b>
 
+<div width="100%" align="center"><a href="https://github.com/L-Rae/StatEmpower" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=L-Rae&repo=StatEmpower&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
